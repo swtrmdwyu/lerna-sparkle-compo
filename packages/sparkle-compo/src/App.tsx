@@ -11,13 +11,6 @@ function App() {
   }
   return (
     <>
-    <Avatar />
-    <Button
-      onClick={() => {console.log('clicked!')}}
-      label="clique"
-    />
-    <Note title={note.title} content={note.content} date={note.date}/>
-    <SearchBar handleSearch={()=>{}}/>
     </>
   )
 }
