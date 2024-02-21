@@ -46,5 +46,6 @@
     "src/styles/*",
     "src/index.css",
     "src/components/**/*"
-  ]
+  ],
+  "gitHead": "74f47f3f8532f25fc2cf0c72358dc5d48c2b43c3"
 }
